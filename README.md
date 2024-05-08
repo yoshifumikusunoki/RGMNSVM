@@ -5,3 +5,4 @@ Run the following scripts:
 - run_foldout.mlx: randomly splitting train and test data with hyperprameter selection
   
 using data in ``data`` directory.
+[Mosek](https://www.mosek.com/) is required.
